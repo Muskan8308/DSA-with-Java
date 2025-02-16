@@ -2,6 +2,7 @@ package searchingSorting;
 
 public class DistributeChocolates {
 	
+	// Q. 
 	
 	static boolean isDivPossible(int[] a, int m, int maxChocoAllowed)
 	{

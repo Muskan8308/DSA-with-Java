@@ -7,7 +7,6 @@ public class QuickSort {
 		int temp = arr[l];
 		arr[l] = arr[r];
 		arr[r] = temp;
-		
 	}
 	
 	static void displayArr(int[] arr)
